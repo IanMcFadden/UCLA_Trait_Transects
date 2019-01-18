@@ -25,9 +25,6 @@ To survey three distinct areas of the UCLA Botanical Garden for plant taxonomic,
 * Use a micrometer to measure thickness of thin leaves 
 * Use calipers to measure thickness of thick leaves 
 
-
-
-
 ## References
 
 Gentry, Alwyn H. 1988. Changes in plant community diversity and floristic composition on environmental and geographical gradients. Annals of the Missouri Botanical Garden. 1-34.
