@@ -8,8 +8,8 @@ To survey three distinct areas of the UCLA Botanical Garden for plant taxonomic,
 
 ### Step 1: Survey group (blue group)
 * Lay out 5m of transect tape and make sure the tape is set in place
-* Starting at 0, mark and number the individual plants with flagging tape 
-* Count those that fall within 1 meter of either side of the transect tape
+* Starting at 0m, find plants who’s leaves or stem falls within 1 meter of either side of the transect tape
+* Mark and number the individual plants with flagging tape starting going up the left side, then back down the right side
 * Record the site, date and taxonomic info (all blue columns)
 
 ### Step 2: Height group (red group)
