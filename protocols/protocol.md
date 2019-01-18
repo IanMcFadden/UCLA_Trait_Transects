@@ -21,7 +21,7 @@ To survey three distinct areas of the UCLA Botanical Garden for plant taxonomic,
 ### Step 3: Leaf group (yellow group)
 * For each numbered plant measure its leaf dimensions in millimeters (the yellow columns)
 * Do this for 3 different leaves and only enter the average value  
-* Mark each with flagging tap to tell them apart
+* Mark each leaf with flagging tape to tell them apart
 * Use a ruler to measure leaf length 
 * Use a ruler to measure leaf width 
 * Use a micrometer to measure thickness of thin leaves 
