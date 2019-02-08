@@ -7,9 +7,11 @@ To survey three distinct areas of the UCLA Botanical Garden for plant taxonomic,
 ## Data collection steps
 
 ### Step 1: Survey group (blue group)
-* Lay out 5m of transect tape and make sure the tape is set in place
+* Lay out 5 meters of transect tape and make sure the tape is set in place
 * Starting at 0m, find plants who’s leaves or stem falls within 1 meter of either side of the transect tape
-* Mark and number the individual plants with flagging tape starting going up the left side, then back down the right side
+* Exclude plants >5m tall
+* Mark and number the tags of the individual plants with flagging tape
+* Start by going up the left side, then back down the right side
 * Record the site, date and taxonomic info (all blue columns)
 
 ### Step 2: Height group (red group)
@@ -18,14 +20,15 @@ To survey three distinct areas of the UCLA Botanical Garden for plant taxonomic,
 * For small plants use a ruler 
 * For large plants use a measuring tape 
 
+<br/>
+<br/>
 ### Step 3: Leaf group (yellow group)
-* For each numbered plant measure its leaf dimensions in millimeters (the yellow columns)
+* For each numbered plant measure its leaf dimensions (the yellow columns)
 * Do this for 3 different leaves and only enter the average value  
 * Mark each leaf with flagging tape to tell them apart
-* Use a ruler to measure leaf length 
-* Use a ruler to measure leaf width 
-* Use a micrometer to measure thickness of thin leaves 
-* Use calipers to measure thickness of thick leaves 
+* Use a ruler to measure leaf length in centimeters
+* Use a ruler to measure leaf width in centimeters
+* Use calipers to measure thickness of leaves in millimeters
 
 ## References
 

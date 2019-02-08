@@ -1,1 +1,24 @@
-
+﻿team,transect,site,month,day,year,individual,genus,species,family,geographic_origin,plant_height_cm,leaf_length_cm,leaf_width_cm,leaf_thickness_mm,notes
+A,1,Stream,January,25,2019,1,Aspidistra,elatior,Asparagaceae,China,61,31.8,8.5,0.5,"Plant consists of many leaves coming out of the ground, height measured for only 1 of the 3 leaves used to measure leaf traits "
+A,1,Stream,January,25,2019,2,Strelitzia,reginae,Strelitziaceae,South Africa,232,65.1,17.3,0.6,
+A,1,Stream,January,25,2019,3,Pseudopanax,lessonii,Araliaceae,New Zealand,377,13.9,3.8,0.53,"Leaves are palmately compound, measured leaf traits for only the central leaflet"
+A,1,Stream,January,25,2019,4,Pseudopanax,lessonii,Araliaceae,New Zealand,294.7,11.5,3.9,1,"Leaves are palmately compound, measured leaf traits for only the central leaflet"
+A,2,Entrance,February,1,2019,1,Thymus,vulgaris,Lamiaceae,Mediterranean Basin,48,0.43,0.2,0.5,
+A,2,Entrance,February,1,2019,2,Artemisia,californica,Asteraceae,California,33,3.3,2.07,0.5,
+A,2,Entrance,February,1,2019,3,Salvia,nemorosa,Lamiaceae,Germany,13,5.43,1.77,0.5,
+A,2,Entrance,February,1,2019,4,Rosmarinus,officinalis,Lamiaceae,Mediterranean Basin,111,1.2,0.2,0.67,
+B,1,Desert,January,25,2019,1,Aloe,"""David Verity""",Xanthorrhoeaceae,South Africa,142.8,39.8,7.7,16.8,"Was flowering, measured height without the flower stalk "
+B,1,Desert,January,25,2019,2,Aloe,plicatilis,Xanthorrhoeaceae,South Africa,134.6,10.4,2.8,7,"Was flowering, measured height without the flower stalk "
+B,1,Desert,January,25,2019,3,Aloe,suprafoliata,Xanthorrhoeaceae,Eastern South Africa,30.8,16,5.8,17,"Was flowering, measured height without the flower stalk "
+B,1,Desert,January,25,2019,4,Aloe,"""x salm-dyckiana""",Xanthorrhoeaceae,South Africa Hybrid,308,48.1,6.4,20.7,"Was flowering, measured height without the flower stalk "
+B,2,Stream,February,1,2019,1,Ravenea,glauca,Arecaceae,Madagascar,308,67.17,2.33,1,
+B,2,Stream,February,1,2019,2,Musa,"""x paradisiaca""",Musaceae,South and Southeast Asia,280,138.67,40.33,0.5,"Height is approximate as stem was in stream so was unable to measure directly, 1 of the three leaves was yellowing and slightly shriveled "
+B,2,Stream,February,1,2019,3,Asparagus,virgatus,Asparagaceae,South Africa,169,9.46,0.05,0.5,"Leaves are thin cylinders, used same measure for leaf width and thickness"
+B,2,Stream,February,1,2019,4,Alocasia,sp.,Araceae,Tropical Asia,302,118.33,76.83,0.5,Height is approximate as stem was in stream so was unable to measure directly 
+C,1,Entrance,January,25,2019,1,Salvia,clevelandii,Lamiaceae,California,89,2.9,0.8,1,
+C,1,Entrance,January,25,2019,2,Achillea,"""x moonshine""",Asteraceae,"Temperate North America, Asia, Europe",26,1.3,0.9,1,"Compund / divided leaf, measured one leaflet only, was flowering, measured height without the flower stalk "
+C,1,Entrance,January,25,2019,3,Verbena,rigida,Verbenaceae,South America,92,3.3,0.8,1,
+C,2,Desert,February,1,2019,1,Aloe,microstigma,Xanthorrhoeaceae,South Africa,57,25.5,4.3,14,
+C,2,Desert,February,1,2019,2,Aloe,mutabilis,Xanthorrhoeaceae,Northeast South Africa,120,60,5.7,22.33,
+C,2,Desert,February,1,2019,3,Haematoxylum,brasiletto,Fabaceae,"Mexico to Colombia, Venezuela",510,2.37,2.1,1,"Tree has compound leaves, only measuring one leaflet "
+C,2,Desert,February,1,2019,4,Aloe ,alooides,Xanthorrhoeaceae,South Africa,170,101.67,16,16.67,
