@@ -20,8 +20,6 @@ To survey three distinct areas of the UCLA Botanical Garden for plant taxonomic,
 * For small plants use a ruler 
 * For large plants use a measuring tape 
 
-<br/>
-<br/>
 ### Step 3: Leaf group (yellow group)
 * For each numbered plant measure its leaf dimensions (the yellow columns)
 * Do this for 3 different leaves and only enter the average value  
